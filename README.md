@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Games, Minatures, and Painting 
 - 🌱 I’m currently learning ... Cybersecurity @ Uni
 - 💞️ I’m looking to collaborate on ... Anything!
-- 📫 How to reach me ... My email cizzara@icloud.com
+- 📫 How to reach me ... Through email
 
 <!---
 kolegraves/kolegraves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
